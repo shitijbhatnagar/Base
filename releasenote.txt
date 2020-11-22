@@ -1,1 +1,1 @@
-This is a release note file.
+This is a release note file and to be used as a release document officially. Thanks.
