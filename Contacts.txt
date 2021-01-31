@@ -1,3 +1,4 @@
 SB - Home
 RB - Office
-VB - Always busy
+VB - Busy
+JB - Studying
