@@ -1,2 +1,3 @@
 SB - Home
 RB - Office
+VB - Always busy
